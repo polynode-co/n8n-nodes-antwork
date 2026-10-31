@@ -1,0 +1,14 @@
+{
+	"node": "n8n-nodes-antwork.antworkTrigger",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Marketing & Content", "Communication"],
+	"resources": {
+		"credentialDocumentation": [
+			{ "url": "https://antwork.io/docs/api/keys" }
+		],
+		"primaryDocumentation": [
+			{ "url": "https://github.com/polynode-co/n8n-nodes-antwork?tab=readme-ov-file" }
+		]
+	}
+}
